@@ -1,0 +1,12 @@
+﻿BookingID,UserID,Destination,Hotel,NumRoom,Check_in,Check_out,StayedDays,Subtotal,Taxes,TotalAmount,PayMethod
+1,US001,London,BondiBeachside,2,2024/5/13,2024/5/16,3,1710,171,1881,Credit card
+2,US001,London,BondiBeachside,2,2024-3-2,2024-3-4,2,780,78,858,Credit card
+3,US001,NewYork,BondiBeachside,1,2024-6-12,2024-6-16,4,520,52,572,Credit card
+4,US001,NewYork,HarbourView,2,2024-2-29,2024-3-12,12,4140,414,4554,cash on delivery
+5,US001,NewYork,BlueMountainsLodge,1,2024-4-23,2024-4-25,2,285,28.5,313.5,e-wallet
+6,US002,NewYork,BlueMountainsLodge,1,2024-3-2,2024-3-4,2,750,75,825,e-wallet
+7,US002,NewYork,BlueMountainsLodge,1,2024-3-12,2024-3-14,2,500,50,550,Credit card
+8,US003,London,HarbourView,1,2024-4-5,2024-4-6,1,262.5,26.25,288.75,cash on delivery
+9,US003,NewYork,ParkView,1,2024-5-6,2024-5-9,3,630,63,693,cash on delivery
+10,US003,NewYork,Grand,3,2024-7-3,2024-7-5,2,900,90,990,Credit card
+11,US003,Sydney,BlueMountainsLodge,1,2024-3-23,2024-3-25,2,285,28.5,313.5,cash on delivery
