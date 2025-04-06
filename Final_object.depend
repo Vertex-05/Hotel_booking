@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1735488501 source:d:\documents\programming language\c++\final_object\main.cpp
+	"Room.h"
+	"Standard.h"
+	"Suite.h"
+	"Deluxe.h"
+	"User.h"
+	"Booking.h"
+	"Hotel.h"
+	"Destination.h"
+
+1735484903 d:\documents\programming language\c++\final_object\room.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<map>
+	<sstream>
+	<algorithm>
+
+1735112944 d:\documents\programming language\c++\final_object\standard.h
+	"Room.h"
+	<fstream>
+	<sstream>
+
+1735364343 d:\documents\programming language\c++\final_object\suite.h
+	"Room.h"
+
+1735364343 d:\documents\programming language\c++\final_object\deluxe.h
+	"Room.h"
+
+1735445431 d:\documents\programming language\c++\final_object\user.h
+	"Booking.h"
+	<unordered_map>
+
+1735483697 d:\documents\programming language\c++\final_object\booking.h
+	"Room.h"
+	"Date.h"
+	<ctime>
+
+1735364343 d:\documents\programming language\c++\final_object\date.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1735129080 d:\documents\programming language\c++\final_object\hotel.h
+	"Room.h"
+	<string>
+
+1735484705 d:\documents\programming language\c++\final_object\destination.h
+	"Hotel.h"
+
+1735488501 source:c:\users\dell\desktop\cys2309195_finalobject\final_object_code\main.cpp
+	"Room.h"
+	"Standard.h"
+	"Suite.h"
+	"Deluxe.h"
+	"User.h"
+	"Booking.h"
+	"Hotel.h"
+	"Destination.h"
+
+1735484903 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\room.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<map>
+	<sstream>
+	<algorithm>
+
+1735112944 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\standard.h
+	"Room.h"
+	<fstream>
+	<sstream>
+
+1735364343 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\suite.h
+	"Room.h"
+
+1735364343 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\deluxe.h
+	"Room.h"
+
+1735445431 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\user.h
+	"Booking.h"
+	<unordered_map>
+
+1735483697 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\booking.h
+	"Room.h"
+	"Date.h"
+	<ctime>
+
+1735364343 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\date.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1735129080 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\hotel.h
+	"Room.h"
+	<string>
+
+1735484705 c:\users\dell\desktop\cys2309195_finalobject\final_object_code\destination.h
+	"Hotel.h"
+
